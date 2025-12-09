@@ -1,6 +1,9 @@
 # asignacion-2-lenguajes-y-compiladores
 Soluciones al problema de las N-Reinas para la asignatura de Lenguajes y Compiladores
 
+#
+El archivo `control_hogar.hc` es el lenguaje creado
+
 # Uso
 
 Para la compilación en cada uno de sus respectivos lenguajes:
