@@ -6,7 +6,7 @@ El archivo `control_hogar.hc` es el lenguaje creado
 
 # Uso
 
-Para la compilación en cada uno de sus respectivos lenguajes:
+Estando en el directorio raíz del proyecto para la compilación en cada uno de sus respectivos lenguajes:
 
 ```sh
 //C++
